@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pradarshan/static/css/main.32984afb.css",
+    "main.js": "/pradarshan/static/js/main.de08e428.js",
+    "static/media/print.png": "/pradarshan/static/media/print.90f0e5e17a4f736e8934.png",
+    "index.html": "/pradarshan/index.html",
+    "main.32984afb.css.map": "/pradarshan/static/css/main.32984afb.css.map",
+    "main.de08e428.js.map": "/pradarshan/static/js/main.de08e428.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32984afb.css",
+    "static/js/main.de08e428.js"
+  ]
+}
