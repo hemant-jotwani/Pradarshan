@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/pradarshan/static/css/main.32984afb.css",
+    "main.css": "/pradarshan/static/css/main.88fc7749.css",
     "main.js": "/pradarshan/static/js/main.de08e428.js",
     "static/media/print.png": "/pradarshan/static/media/print.90f0e5e17a4f736e8934.png",
     "index.html": "/pradarshan/index.html",
-    "main.32984afb.css.map": "/pradarshan/static/css/main.32984afb.css.map",
+    "main.88fc7749.css.map": "/pradarshan/static/css/main.88fc7749.css.map",
     "main.de08e428.js.map": "/pradarshan/static/js/main.de08e428.js.map"
   },
   "entrypoints": [
-    "static/css/main.32984afb.css",
+    "static/css/main.88fc7749.css",
     "static/js/main.de08e428.js"
   ]
 }
