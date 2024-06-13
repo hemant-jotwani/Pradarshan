@@ -10,11 +10,13 @@ const Banner = () => {
                 <div className="text-content">
                     <h1>Pradarshan</h1>
                     <p>
-                        This Project was made by Hemant Jotwani & Vedant Tawri Under the Guidance of Mr. Toshant Janghel Sir ,IT Department Bhilai Institute of Technology (BIT) Durg.
+                    E-COMMERCE STORE AND CONTENT UNIFIED <br></br>
+                    This Prototype was made by Hemant Jotwani in the final year capstone project BIT DURG<br></br>
+                    Github links of Frontend and Backend are below.<br></br>
                     </p>
                     <div className="ctas">
-                        <div className="banner-cta"><a src="#categories"></a>Read More</div>
-                        <div className="banner-cta v2">Shop Now</div>
+                        <div className="banner-cta"><a href="https://github.com/hemant-jotwani/pradarshan"> FrontEnd </a> </div>
+                        <div className="banner-cta v2"><a href="https://github.com/hemant-jotwani/Pradarshan-api"> Backend</a></div>
                     </div>
                 </div>
                 <img className="banner-img" src={BannerImg} alt=""/>
