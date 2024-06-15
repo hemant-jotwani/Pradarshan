@@ -18,10 +18,10 @@ function App() {
             <AppContext>
                 <Header />
                 <Routes>
-                    <Route path="/" element={<Home />} />
-                    <Route path="/category/:id" element={<Category />} />
-                    <Route path="/product/:id" element={<SingleProduct />} />
-                    <Route path="/reel" element={<Reels />} />
+                    <Route path="/pradarshan" element={<Home />} />
+                    <Route path="/pradarshan/category/:id" element={<Category />} />
+                    <Route path="/pradarshan/product/:id" element={<SingleProduct />} />
+                    <Route path="/pradarshan/reel" element={<Reels />} />
                 </Routes>
             </AppContext>
         </BrowserRouter>
