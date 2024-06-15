@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import "./App.scss";
 
 import Header from "./components/Header/Header";
@@ -14,7 +14,7 @@ import Reels from "./components/Reels/Reels";
 
 function App() {
     return (
-        <BrowserRouter>
+        <HashRouter>
             <AppContext>
                 <Header />
                 <Routes>
@@ -24,7 +24,7 @@ function App() {
                     <Route path="/reel" element={<Reels />} />
                 </Routes>
             </AppContext>
-        </BrowserRouter>
+        </HashRouter>
     );
 }
 
